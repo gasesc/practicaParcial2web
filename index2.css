@@ -34,3 +34,21 @@ justify-content: center;
 #colores{
     display: block;
 }
+.azul{
+    color: blue;
+}
+.rojo{
+color: red;
+}
+.verde{
+    color: green;
+}
+.crema{
+    background-color: bisque;
+}
+.gris{
+    background-color: grey;
+}
+.amarillo{
+    background-color: yellow;
+}
